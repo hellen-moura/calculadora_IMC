@@ -21,8 +21,6 @@
                 <h1 id="title">
                     Calculadora - IMC
                 </h1>
-
-
                 <div class="input-box">
                     <label for="weight">
                         Peso em Kg
@@ -33,10 +31,41 @@
                         <span>
                             Kg
                         </span>
+
+                        <div class="input-box">
+                            <label for="height">
+                                Altura em metros
+                            </label>
+                            <div class="input-field">
+                                <i class="fa-solid fa-ruler"></i>
+                                <input type="number" id="height" required>
+                                <span>
+                                    M
+                                </span>
                         
                     </div>
                 </div>
+                <button id="calculate">
+                    Calcular
+                </button>
             </form>
+            <div id="infos">
+                <div id="result">
+                    <div id="bmi">
+                        <span id="value"></span>
+                        <span>Seu IMC</span>
+                    </div>
+                    <div id="description">
+                        <span></span>
+                    </div>
+                </div>
+                <div id="more_info">
+                    <a href="https://brasilescola.uol.com.br/educacao-fisica/Indice-massa-corporal-imc.htm">
+                        Mais informações sobre o IMC
+                        <i class="fa-solid fa-link"></i>
+                    </a>
+                </div>
+            </div>
         </section>
 
     </main>
