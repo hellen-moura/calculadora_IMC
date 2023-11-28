@@ -21,7 +21,12 @@ form.addEventListener('submit', function (event) {
         value.classList.add('normal');
     }else if (bmi >25 && cmi <=30) {
         description = "Cuidado! Você está com sobrepeso!";
+    }else if (bmi >30 && bmi <=30) {
+        description = "Cuidado! Você está com obesidade moderada!";
+    }else if (bmi >35 && bmi <=40) {
+        description = "Cuidado! Você está com obesidade severa!";
+    }else  {
+        description = "Cuidado! Você está com obesidade morbida!";
     }
-    }
-    }
-}
+
+    value.textContent = bmi.replace('.', ',');
