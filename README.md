@@ -1,4 +1,8 @@
-![Calculadora_WEB](https://github.com/hellen-moura/calculadora_IMC/assets/127620071/5b83affb-1d4c-4976-ba49-c6381a3f344e)# Calculadora de IMC (Índice de Massa Corporal)
+
+# Calculadora de IMC (Índice de Massa Corporal)
+
+![Calculadora_WEB](https://github.com/hellen-moura/calculadora_IMC/assets/127620071/5b83affb-1d4c-4976-ba49-c6381a3f344e)
+
 
 Este é um projeto simples de calculadora de IMC desenvolvido em [HTML, CSS E JavaScript].
 
