@@ -150,9 +150,17 @@ padding: 0.6rem 1rem;
 }
 
 #more_info a:hover {
-    color: #f8fafc;
+    color: #cbd5e1;
 }
 
 .hidden {
     display: none;
+}
+
+.normal {
+    color: aquamarine;
+}
+
+.attention {
+    color:#dc2626
 }
