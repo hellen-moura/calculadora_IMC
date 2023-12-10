@@ -7,7 +7,6 @@
 Este é um projeto simples de calculadora de IMC desenvolvido em [HTML, CSS E JavaScript].
 
 
-
 ## Sobre o Projeto
 
 O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de uma pessoa para determinar se ela está dentro de uma faixa de peso saudável. Esta calculadora de IMC permite que os usuários insiram sua altura e peso para calcular o IMC e receber uma indicação geral de sua condição de peso.
